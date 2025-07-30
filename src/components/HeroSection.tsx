@@ -81,7 +81,7 @@ const HeroSection = () => {
         <div className="flex justify-center items-center mt-6 sm:mt-6 mb-0">
           <div className="flex items-center gap-2 sm:gap-3">
             <span className="text-lg sm:text-xl text-gray-600">Backed by</span>
-            <img src="/src/assets/backedup.png" alt="Backed Up" className="w-auto h-20 sm:h-28 md:h-32" />
+            <img src="/backedup.png" alt="Backed Up" className="w-auto h-20 sm:h-28 md:h-32" />
           </div>
         </div>
       </div>
